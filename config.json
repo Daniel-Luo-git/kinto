@@ -6,12 +6,15 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
+                        "id": "451c0e37-86cb-4d0b-9ed5-663e85568fe9"
                     }
                 ]
             },
             "streamSettings": {
-                "network": "ws"
+                "network": "ws",
+                "wsSettings": {
+                     "path": "/raxcy"
+                }
             }
         }
     ],
